@@ -1,0 +1,9 @@
+[package]
+name = "experimental-login"
+version = "0.1.0"
+authors = ["Joe Peterson"]
+edition = "2018"
+
+[dependencies]
+chrono = "0.4"
+ncurses = "5"
